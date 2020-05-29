@@ -1,7 +1,7 @@
 # TinDog
 
 #### A Bootstrap practice for The Complete 2019 Web Development Bootcamp, 01.29.2019
-If you'd like to check out the Complete Web Development Course, you can [see the course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+If you'd like to check out the Complete Web Development Course, you can [see the course on Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/). Icons, images and media for this project were provided through the course.
 
 #### By Brittany Lindgren
 
